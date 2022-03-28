@@ -15,7 +15,8 @@ const Countries = [
 class App extends Component {
   render() {
     return (
-      <div className="container">
+      <div class="container">
+        <div><h2>Contemporary Issues in Software Development</h2></div>
         <div className="row">
           <div className="col-md-3"></div>
           <div className="col-md-6">
@@ -27,4 +28,5 @@ class App extends Component {
     );
   }
 }
+
 export default App
