@@ -14,4 +14,28 @@ code {
 
 .container {
   padding: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  padding-top: 50px;
+  text-align: center;
+}
+
+.grid {
+  padding: 50px;
+}
+
+.grid-item {
+  padding: 10px;
+}
+
+.page-content {
+  background-color: azure;
+}
+
+.grid-title {
+  padding-bottom: 10px;
+  color: hotpink;
 }
